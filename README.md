@@ -1,5 +1,5 @@
 ## Setup 
-The site runs on Windows Azure Websites and uses Azure table storage to persist talk submissions and votes.  
+This site runs on Windows Azure Websites and uses Azure table storage to persist talk submissions and votes.  
 
 The following Web.config AppSettings are required to run:  
 1.  `AzureTableStorageConnectionString` which is a standard Azure table storage connection string  
